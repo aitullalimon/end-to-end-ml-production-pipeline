@@ -1,4 +1,4 @@
-# End-to-End ML Production Pipeline (Client-Ready Template)
+# End-to-End ML Production Pipeline (Ready Template)
 
 Badges: Python | scikit-learn | Docker | CLI Inference
 
