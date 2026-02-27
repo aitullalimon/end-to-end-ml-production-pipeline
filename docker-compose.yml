@@ -1,0 +1,9 @@
+services:
+  ml-pipeline:
+    build: .
+    container_name: end_to_end_ml_pipeline
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    working_dir: /app
